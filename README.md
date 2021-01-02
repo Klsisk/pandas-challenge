@@ -11,6 +11,9 @@ The final report should include each of the following:
 ### Player Count
 - Total Number of Players
 
+![image](https://user-images.githubusercontent.com/69765842/103449893-97b7e880-4c7c-11eb-90b8-2387aea09eae.png)
+
+
 ### Purchasing Analysis (Total)
 - Number of Unique Items
 - Average Purchase Price
