@@ -38,6 +38,8 @@ The below each broken by gender:
 
 ![image](https://user-images.githubusercontent.com/69765842/103450552-31d05e80-4c86-11eb-894e-a4fddb12a3f8.png)
 
+![image](https://user-images.githubusercontent.com/69765842/103450622-23367700-4c87-11eb-91ca-eac908a39c04.png)
+
 ### Age Demographics
 The below each broken into bins of 4 years (i.e. <10, 10-14, 15-19, etc.):
 - Purchase Count
