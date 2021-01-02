@@ -11,7 +11,7 @@ The final report should include each of the following:
 ### Player Count
 - Total Number of Players
 
-![image](https://user-images.githubusercontent.com/69765842/103449893-97b7e880-4c7c-11eb-90b8-2387aea09eae.png)
+![image](https://user-images.githubusercontent.com/69765842/103450141-f599ff80-4c7f-11eb-8eeb-a34f44bc694c.png)
 
 
 ### Purchasing Analysis (Total)
@@ -20,10 +20,14 @@ The final report should include each of the following:
 - Total Number of Purchases
 - Total Revenue
 
+![image](https://user-images.githubusercontent.com/69765842/103450145-14989180-4c80-11eb-9cc9-32c4fce5a0a1.png)
+
 ### Gender Demographics
 - Percentage and Count of Male Players
 - Percentage and Count of Female Players
 - Percentage and Count of Other / Non-Disclosed
+
+![image](https://user-images.githubusercontent.com/69765842/103450158-43166c80-4c80-11eb-8be5-2f38f601307d.png)
 
 ### Purchasing Analysis (Gender)
 The below each broken by gender:
@@ -32,12 +36,18 @@ The below each broken by gender:
 - Total Purchase Value
 - Average Purchase Total per Person by Gender
 
+![image](https://user-images.githubusercontent.com/69765842/103450167-650fef00-4c80-11eb-85b5-b473f6c620b0.png)
+
 ### Age Demographics
 The below each broken into bins of 4 years (i.e. <10, 10-14, 15-19, etc.):
 - Purchase Count
 - Average Purchase Price
 - Total Purchase Value
 - Average Purchase Total per Person by Age Group
+
+![image](https://user-images.githubusercontent.com/69765842/103450185-98eb1480-4c80-11eb-9dd3-7cbeadf55117.png)
+
+![image](https://user-images.githubusercontent.com/69765842/103450192-b15b2f00-4c80-11eb-8c24-6e9f29497757.png)
 
 ### Top Spenders
 Identify the the top 5 spenders in the game by total purchase value, then list (in a table):
