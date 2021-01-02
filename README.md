@@ -36,7 +36,7 @@ The below each broken by gender:
 - Total Purchase Value
 - Average Purchase Total per Person by Gender
 
-![image](https://user-images.githubusercontent.com/69765842/103450167-650fef00-4c80-11eb-85b5-b473f6c620b0.png)
+![image](https://user-images.githubusercontent.com/69765842/103450552-31d05e80-4c86-11eb-894e-a4fddb12a3f8.png)
 
 ### Age Demographics
 The below each broken into bins of 4 years (i.e. <10, 10-14, 15-19, etc.):
@@ -56,6 +56,8 @@ Identify the the top 5 spenders in the game by total purchase value, then list (
 - Average Purchase Price
 - Total Purchase Value
 
+![image](https://user-images.githubusercontent.com/69765842/103450504-a060ec80-4c85-11eb-9245-58ad5cb21a47.png)
+
 ### Most Popular Items
 Identify the 5 most popular items by purchase count, then list (in a table):
 - Item ID
@@ -64,6 +66,10 @@ Identify the 5 most popular items by purchase count, then list (in a table):
 - Item Price
 - Total Purchase Value
 
+![image](https://user-images.githubusercontent.com/69765842/103450518-cab2aa00-4c85-11eb-8182-a1f6c5da5674.png)
+
+![image](https://user-images.githubusercontent.com/69765842/103450528-ea49d280-4c85-11eb-84a4-a07be2f79d0c.png)
+
 ### Most Profitable Items
 Identify the 5 most profitable items by total purchase value, then list (in a table):
 - Item ID
@@ -71,6 +77,8 @@ Identify the 5 most profitable items by total purchase value, then list (in a ta
 - Purchase Count
 - Item Price
 - Total Purchase Value
+
+![image](https://user-images.githubusercontent.com/69765842/103450538-15ccbd00-4c86-11eb-8b99-c0a48a2e54df.png)
 
 ### Observable Trends
 1.	In the below summary table on age demographics, I had to look at what age group most of the players from the data, fell into.  You can see that most players were in the 20-24 year old age range.  They made up 44.79% of the data with a total of 258 players.  The group with the least amount of players fell into the 40+ year old age range.  They only had 12 players with a percentage of 2.08% of the data.  While it’s not surprising to me that the oldest group had the least amount of players due to probably having careers and families, I was surprised to see that the highest group was not in the 10-14 year old age range. I would have thought their numbers would have been higher than only 3.82% of the data.
